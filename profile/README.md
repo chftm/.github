@@ -1,7 +1,7 @@
 # Came Here For The Merch / Приехали Ради Мерча
 
-RU:
+**RU**:
 Мы - самая профессиональная команда на олимпиадах по программированию.
 
-EN:
+**EN**:
 We are the most professional team at programming olympiads.
