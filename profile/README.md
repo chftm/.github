@@ -8,7 +8,7 @@
 
 <h3><a href="https://github.com/flexagoon"><picture>
   <source height=50px media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
-  <source height=50px media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66178592/224479904-c41a3cba-46de-4c6c-979a-4c3687aa9161.png">
+  <source height=50px media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/66178592/224479904-c41a3cba-46de-4c6c-979a-4c3687aa9161.png">
   <img height=50px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
 </picture></a></h3> 
 
