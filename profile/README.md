@@ -2,16 +2,22 @@
 
 # Came Here For The Merch / Приехали Ради Мерча
 
-Мы - самая профессиональная команда на олимпиадах по программированию.
+Мы - самая профессиональная команда программистов в мире.
 
 ## Участники
 
-### <a href="https://flexagoon.com"><picture>
+<h3><a href="https://github.com/flexagoon"><picture>
   <source height=50px media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
   <source height=50px media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header-lightmode.png">
   <img height=50px alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
-</picture></a>
+</picture></a></h3>
 
-### FoxFil
+Тимлид, программист
 
-### Ultrageopro1966
+### [Ultrageopro1966](https://github.com/ultrageopro1966)
+
+Программист
+
+### [FoxFil](https://github.com/foxfil)
+
+Программист
