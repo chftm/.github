@@ -30,6 +30,13 @@
 - Программист
 - [Сайт](https://foxfil.xyz)
 
+### [pasha-matveev](https://github.com/pasha-matveev)
+
+<img align="left" src="https://user-images.githubusercontent.com/66178592/225011100-1c1d6425-a9bd-4fdd-b0b1-21adc8db7b7c.png" height=50px>
+
+- Программист
+- Инженер
+
 ## Другие участники
 
 - [@AndrHot](https://github.com/AndrHot)
