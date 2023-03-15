@@ -25,9 +25,7 @@
 
 ---
 
-### [FoxFil](https://github.com/foxfil)
-
-<img src="https://foxfil.xyz/avatar.jpg" height=50px>
+### [<img src="https://user-images.githubusercontent.com/83007290/225368617-7c56dd65-90f6-465e-94c4-891ccfc666ec.png" height=100px>](https://github.com/foxfil)
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
