@@ -5,9 +5,9 @@
 ## Основные участники
 
 <h3><a href="https://github.com/flexagoon"><picture>
-  <source height=50px media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
-  <source height=50px media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/66178592/224479904-c41a3cba-46de-4c6c-979a-4c3687aa9161.png">
-  <img height=50px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
+  <source width=250px media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
+  <source width=250px media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/66178592/224479904-c41a3cba-46de-4c6c-979a-4c3687aa9161.png">
+  <img width=250px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
 </picture></a></h3> 
 
 ![Тимлид](https://raw.githubusercontent.com/chftm/brand/main/Badges/teamlead.svg)
@@ -17,7 +17,7 @@
 
 ---
 
-### [<img src="https://user-images.githubusercontent.com/66178592/225309144-5a69cb9e-a670-4d6d-8f40-7faeef8164de.png" height=100px>](https://github.com/ultrageopro1966)
+### [<img src="https://user-images.githubusercontent.com/66178592/225309144-5a69cb9e-a670-4d6d-8f40-7faeef8164de.png" width=250px>](https://github.com/ultrageopro1966)
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
@@ -25,7 +25,7 @@
 
 ---
 
-### [<img src="https://user-images.githubusercontent.com/83007290/225368617-7c56dd65-90f6-465e-94c4-891ccfc666ec.png" height=100px>](https://github.com/foxfil)
+### [<img src="https://user-images.githubusercontent.com/83007290/225368617-7c56dd65-90f6-465e-94c4-891ccfc666ec.png" width=250px>](https://github.com/foxfil)
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
