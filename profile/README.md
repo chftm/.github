@@ -12,30 +12,33 @@
   <img height=50px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
 </picture></a></h3> 
 
-- Тимлид
-- Программист
-- [Сайт](https://flexagoon.com)
+![Тимлид](https://raw.githubusercontent.com/chftm/brand/main/Badges/teamlead.svg)
+![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
+
+[![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://flexagoon.com)
 
 ### [Ultrageopro1966](https://github.com/ultrageopro1966)
 
-<img align="left" src="https://avatars.githubusercontent.com/u/120571667" height=50px>
+<img src="https://avatars.githubusercontent.com/u/120571667" height=50px>
 
-- Программист
-- [Сайт](https://geopro1966.online)
+![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
+
+[![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://geopro1966.online)
 
 ### [FoxFil](https://github.com/foxfil)
 
-<img align="left" src="https://foxfil.xyz/avatar.jpg" height=50px>
+<img src="https://foxfil.xyz/avatar.jpg" height=50px>
 
-- Программист
-- [Сайт](https://foxfil.xyz)
+![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
+
+[![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://foxfil.xyz)
 
 ### [pasha-matveev](https://github.com/pasha-matveev)
 
-<img align="left" src="https://user-images.githubusercontent.com/66178592/225011100-1c1d6425-a9bd-4fdd-b0b1-21adc8db7b7c.png" height=50px>
+<img src="https://user-images.githubusercontent.com/66178592/225011100-1c1d6425-a9bd-4fdd-b0b1-21adc8db7b7c.png" height=50px>
 
-- Программист
-- Инженер
+![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
+![Инженер](https://raw.githubusercontent.com/chftm/brand/main/Badges/engineer.svg)
 
 ## Другие участники
 
