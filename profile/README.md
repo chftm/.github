@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66178592/224479191-d763ff05-5aba-43e3-ba25-c81690785d5a.png" width=350px>
-
-# Came Here For The Merch / Приехали Ради Мерча
+# <img src="https://raw.githubusercontent.com/chftm/brand/main/header.png" width=500px>
 
 Мы - самая профессиональная команда программистов в мире.
 
