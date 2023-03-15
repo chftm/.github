@@ -46,5 +46,5 @@
 
 ## Другие участники
 
-- [@AndrHot](https://github.com/AndrHot)
-- [@GregZapu](https://github.com/GregZapu)
+- [@AndrHot](https://github.com/AndrHot) - *ДИЗАЙНЕР*
+- [@GregZapu](https://github.com/GregZapu) - *ДИЗАЙНЕР*
