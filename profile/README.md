@@ -33,9 +33,11 @@
 
 ---
 
-### [pasha-matveev](https://github.com/pasha-matveev)
-
-<img src="https://user-images.githubusercontent.com/66178592/225311665-cb5a75c9-2b82-4fc3-b934-5e7eebb33daf.png" height=50px>
+<h3><a href="https://github.com/pasha-matveev"><picture>
+  <source width=250px media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66178592/225460790-dd331c77-4beb-438a-ac19-a66b73c9ee52.png">
+  <source width=250px media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/66178592/225460565-4352e8bb-a3d5-4bab-82b4-c1ef6509dd11.png">
+  <img width=250px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/225460790-dd331c77-4beb-438a-ac19-a66b73c9ee52.png">
+</picture></a></h3> 
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Инженер](https://raw.githubusercontent.com/chftm/brand/main/Badges/engineer.svg)
