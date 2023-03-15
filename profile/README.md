@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/chftm/brand/main/header.png" width=500px>
+# <img src="https://raw.githubusercontent.com/chftm/brand/main/header.png" width=100%>
 
 Мы - самая профессиональная команда программистов в мире.
 
