@@ -39,7 +39,7 @@
 
 ### [pasha-matveev](https://github.com/pasha-matveev)
 
-<img src="https://user-images.githubusercontent.com/66178592/225011100-1c1d6425-a9bd-4fdd-b0b1-21adc8db7b7c.png" height=50px>
+<img src="https://user-images.githubusercontent.com/66178592/225311665-cb5a75c9-2b82-4fc3-b934-5e7eebb33daf.png" height=50px>
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Инженер](https://raw.githubusercontent.com/chftm/brand/main/Badges/engineer.svg)
