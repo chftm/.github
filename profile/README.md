@@ -44,5 +44,5 @@
 
 ## Другие участники
 
-- [@AndrHot](https://github.com/AndrHot) - *ДИЗАЙНЕР*
-- [@GregZapu](https://github.com/GregZapu) - *ДИЗАЙНЕР*
+- [@AndrHot](https://github.com/AndrHot) [Хакатон Яндекс учебника - Сценарист]
+- [@GregZapu](https://github.com/GregZapu) [Хакатон Яндекс учебника - Сценарист]
