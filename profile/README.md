@@ -17,13 +17,15 @@
 
 [![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://flexagoon.com)
 
-### [Ultrageopro1966](https://github.com/ultrageopro1966)
+---
 
-<img src="https://avatars.githubusercontent.com/u/120571667" height=50px>
+### [<img src="https://user-images.githubusercontent.com/66178592/225309144-5a69cb9e-a670-4d6d-8f40-7faeef8164de.png" height=100px>](https://github.com/ultrageopro1966)
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
 [![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://geopro1966.online)
+
+---
 
 ### [FoxFil](https://github.com/foxfil)
 
@@ -32,6 +34,8 @@
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
 [![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://foxfil.xyz)
+
+---
 
 ### [pasha-matveev](https://github.com/pasha-matveev)
 
