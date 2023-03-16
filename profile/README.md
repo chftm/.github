@@ -44,5 +44,6 @@
 
 ## Другие участники
 
-- [@AndrHot](https://github.com/AndrHot) [Хакатон Яндекс учебника - Сценарист]
-- [@GregZapu](https://github.com/GregZapu) [Хакатон Яндекс учебника - Сценарист]
+[<img src="https://user-images.githubusercontent.com/83007290/225549216-6def17aa-172b-4381-a740-239892214bb1.png" width=250px>](https://education.yandex.ru/olymp/inf2023)
+- [@AndrHot](https://github.com/AndrHot) 
+- [@GregZapu](https://github.com/GregZapu)
