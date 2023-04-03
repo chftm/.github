@@ -41,9 +41,3 @@
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Инженер](https://raw.githubusercontent.com/chftm/brand/main/Badges/engineer.svg)
-
-## Другие участники
-
-[<img src="https://user-images.githubusercontent.com/83007290/225549216-6def17aa-172b-4381-a740-239892214bb1.png" width=250px>](https://education.yandex.ru/olymp/inf2023)
-- [@AndrHot](https://github.com/AndrHot) 
-- [@GregZapu](https://github.com/GregZapu)
