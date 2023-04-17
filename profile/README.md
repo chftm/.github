@@ -41,3 +41,14 @@
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Инженер](https://raw.githubusercontent.com/chftm/brand/main/Badges/engineer.svg)
+
+---
+
+<h3><a href="https://github.com/onl1yw"><picture>
+  <source width=250px media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66178592/232559804-1f30f02b-8d77-4da8-8e3f-ffae36a67346.png">
+  <source width=250px media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/66178592/232559886-f3181294-279a-48b4-8c79-17b70c60823e.png">
+  <img width=250px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/232559804-1f30f02b-8d77-4da8-8e3f-ffae36a67346.png">
+</picture></a></h3> 
+
+![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
+![Дизайнер](https://raw.githubusercontent.com/chftm/brand/main/Badges/designer.svg)
