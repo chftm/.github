@@ -52,3 +52,8 @@
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Дизайнер](https://raw.githubusercontent.com/chftm/brand/main/Badges/designer.svg)
+
+## Награды
+
+- [Nuclear IT Hack 2023](https://nuclearhack.mephi.ru/) (Задача от Эремекс) - 🥇 ПОБЕДИТЕЛИ
+- [Nuclear IT Hack 2023](https://nuclearhack.mephi.ru/) (Задача от МИФИ) - 🥈 2 МЕСТО
