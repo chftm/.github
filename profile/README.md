@@ -55,6 +55,6 @@
 
 ## Награды
 
-- [Nuclear IT Hack 2023](https://nuclearhack.mephi.ru/)
-    - Задача от Эремекс - 🥇 ПОБЕДИТЕЛИ
-    - Задача от МИФИ - 🥈 2 МЕСТО [[код](https://github.com/chftm/MEPHI-DustFinder)]
+[<img src="https://user-images.githubusercontent.com/83007290/235467273-321de4bd-0c70-4741-907b-dfd6acbc0221.png" width=20%>](https://nuclearhack.mephi.ru/)
+- Задача от Эремекс - 🥇 ПОБЕДИТЕЛИ
+- Задача от МИФИ - 🥈 2 МЕСТО [[код](https://github.com/chftm/MEPHI-DustFinder)]
