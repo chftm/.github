@@ -13,7 +13,7 @@
 ![Тимлид](https://raw.githubusercontent.com/chftm/brand/main/Badges/teamlead.svg)
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
-[![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://flexagoon.com)
+[![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://fxgn.dev)
 
 ---
 
