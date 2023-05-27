@@ -62,5 +62,5 @@
 - Задача от Эремекс - 🥇 ПОБЕДИТЕЛИ
 - Задача от МИФИ - 🥈 2 МЕСТО [[код](https://github.com/chftm/MEPHI-DustFinder)]
 ---
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239763019-8cd131f3-120e-43ea-b72e-b1ed54cce543.png" width=250px>](https://education.yandex.ru/olymp/inf2023)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66178592/241376846-0ddcfda6-b9d1-4d97-9704-68369a750e0c.png" width=250px>](https://education.yandex.ru/olymp/inf2023)
 - Участники
