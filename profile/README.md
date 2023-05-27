@@ -55,13 +55,12 @@
 
 ## Награды
 
-
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239763340-bb3c49f7-f447-4e99-9f01-e28646e4346d.png" width=15%>](https://hacks-ai.ru/)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239763340-bb3c49f7-f447-4e99-9f01-e28646e4346d.png" width=250px>](https://hacks-ai.ru/)
 - Участники (25 место) [[код](https://github.com/chftm/swan_detector)]
 ---
-[<img src="https://user-images.githubusercontent.com/83007290/235467273-321de4bd-0c70-4741-907b-dfd6acbc0221.png" width=20%>](https://nuclearhack.mephi.ru/)
+[<img src="https://user-images.githubusercontent.com/83007290/235467273-321de4bd-0c70-4741-907b-dfd6acbc0221.png" width=250px>](https://nuclearhack.mephi.ru/)
 - Задача от Эремекс - 🥇 ПОБЕДИТЕЛИ
 - Задача от МИФИ - 🥈 2 МЕСТО [[код](https://github.com/chftm/MEPHI-DustFinder)]
 ---
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239763019-8cd131f3-120e-43ea-b72e-b1ed54cce543.png" width=30%>](https://education.yandex.ru/olymp/inf2023)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239763019-8cd131f3-120e-43ea-b72e-b1ed54cce543.png" width=250px>](https://education.yandex.ru/olymp/inf2023)
 - Участники
