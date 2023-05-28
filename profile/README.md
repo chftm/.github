@@ -53,7 +53,7 @@
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Дизайнер](https://raw.githubusercontent.com/chftm/brand/main/Badges/designer.svg)
 
-## Награды
+## События
 
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239763340-bb3c49f7-f447-4e99-9f01-e28646e4346d.png" width=250px>](https://hacks-ai.ru/)
 - Участники (25 место) [[код](https://github.com/chftm/swan_detector)]
