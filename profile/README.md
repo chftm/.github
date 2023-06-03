@@ -56,14 +56,26 @@
 ## События
 
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243065176-9317980e-ec81-41cb-b347-c8b9e4592eba.png" width=250px>](https://dano.hse.ru/hackathon)
-- Участники (5 место) [[код](https://github.com/chftm/tinkoff_vs_weather)]
+
+![УЧАСТНИКИ](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070183-e70d44b9-926e-4f00-b90a-58effa9cd679.svg) (5 место) [[![КОД](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070369-82031bc2-4b62-46f9-90b2-ec794c291f78.svg)](https://github.com/chftm/tinkoff_vs_weather)]
+
 ---
+
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239763340-bb3c49f7-f447-4e99-9f01-e28646e4346d.png" width=250px>](https://hacks-ai.ru/)
-- Участники (25 место) [[код](https://github.com/chftm/swan_detector)]
+
+![УЧАСТНИКИ](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070183-e70d44b9-926e-4f00-b90a-58effa9cd679.svg) (25 место) [[![КОД](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070369-82031bc2-4b62-46f9-90b2-ec794c291f78.svg)](https://github.com/chftm/swan_detector)]
+
 ---
+
 [<img src="https://user-images.githubusercontent.com/83007290/235467273-321de4bd-0c70-4741-907b-dfd6acbc0221.png" width=250px>](https://nuclearhack.mephi.ru/)
-- Задача от Эремекс - 🥇 ПОБЕДИТЕЛИ
-- Задача от МИФИ - 🥈 2 МЕСТО [[код](https://github.com/chftm/MEPHI-DustFinder)]
+
+Задача от Эремекс - ![1_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070137-d1c63377-e23d-483b-83d5-519182b11c9f.svg)
+
+Задача от МИФИ - ![2_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070166-0dddfee9-bbf5-43f4-91eb-b8e81bad1685.svg) [[![КОД](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070369-82031bc2-4b62-46f9-90b2-ec794c291f78.svg)](https://github.com/chftm/MEPHI-DustFinder)]
+
 ---
+
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66178592/241376846-0ddcfda6-b9d1-4d97-9704-68369a750e0c.png" width=250px>](https://education.yandex.ru/olymp/inf2023)
-- Участники
+
+![УЧАСТНИКИ](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070183-e70d44b9-926e-4f00-b90a-58effa9cd679.svg)
+
