@@ -20,6 +20,7 @@
 ### [<img src="https://user-images.githubusercontent.com/66178592/225309144-5a69cb9e-a670-4d6d-8f40-7faeef8164de.png" width=300px>](https://github.com/ultrageopro1966)
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
+![Математик](https://raw.githubusercontent.com/chftm/brand/main/Badges/math.svg)
 
 [![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://geopro1966.online)
 
@@ -50,8 +51,8 @@
   <img width=300px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/232559804-1f30f02b-8d77-4da8-8e3f-ffae36a67346.png">
 </picture></a></h3> 
 
-![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Дизайнер](https://raw.githubusercontent.com/chftm/brand/main/Badges/designer.svg)
+![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
 ## События
 
