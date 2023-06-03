@@ -52,7 +52,6 @@
 </picture></a></h3> 
 
 ![Дизайнер](https://raw.githubusercontent.com/chftm/brand/main/Badges/designer.svg)
-![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
 ## События
 
