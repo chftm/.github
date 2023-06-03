@@ -55,7 +55,7 @@
 
 ## События
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/241704838-83e2ec5a-1eda-4e23-a995-e1f4fa90621a.png" width=250px>](https://dano.hse.ru/hackathon)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243065176-9317980e-ec81-41cb-b347-c8b9e4592eba.png" width=250px>](https://dano.hse.ru/hackathon)
 - Участники (5 место) [[код](https://github.com/chftm/tinkoff_vs_weather)]
 ---
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239763340-bb3c49f7-f447-4e99-9f01-e28646e4346d.png" width=250px>](https://hacks-ai.ru/)
