@@ -71,7 +71,7 @@
 
 ---
 
-[<img src="https://user-images.githubusercontent.com/83007290/235467273-321de4bd-0c70-4741-907b-dfd6acbc0221.png" width=200px>](https://nuclearhack.mephi.ru/)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/244959436-82f26fba-e172-4c6c-ac37-a29619bc3c44.png" width=200px>](https://nuclearhack.mephi.ru/)
 
 Задача от Эремекс - ![1_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070137-d1c63377-e23d-483b-83d5-519182b11c9f.svg)
 
