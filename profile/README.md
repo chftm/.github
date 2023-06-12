@@ -73,9 +73,9 @@
 
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/244959436-82f26fba-e172-4c6c-ac37-a29619bc3c44.png" width=200px>](https://nuclearhack.mephi.ru/)
 
-Задача от Эремекс - ![1_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070137-d1c63377-e23d-483b-83d5-519182b11c9f.svg)
+![1_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070137-d1c63377-e23d-483b-83d5-519182b11c9f.svg) - задача от Эремекс
 
-Задача от МИФИ - ![2_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070166-0dddfee9-bbf5-43f4-91eb-b8e81bad1685.svg)
+![2_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070166-0dddfee9-bbf5-43f4-91eb-b8e81bad1685.svg) - задача от МИФИ
 
 [![КОД](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070369-82031bc2-4b62-46f9-90b2-ec794c291f78.svg)](https://github.com/chftm/MEPHI-DustFinder)
 
