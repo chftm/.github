@@ -55,6 +55,14 @@
 
 ## События
 
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/263385497-93a091ce-8f1a-4557-bf9f-9c554508d13c.png" width=200px>](https://ya-doma.ru/drivehack-2023/)
+
+![1_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070137-d1c63377-e23d-483b-83d5-519182b11c9f.svg) - задача от Мосметро
+
+[![КОД](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070369-82031bc2-4b62-46f9-90b2-ec794c291f78.svg)](https://github.com/chftm/mosmetro_wear)
+
+---
+
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/253820532-e58d0059-1d1b-4cda-9fed-28b5898df36e.svg" width=200px>](https://ctf.tinkoff.ru/)
 
 ![УЧАСТНИКИ](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070183-e70d44b9-926e-4f00-b90a-58effa9cd679.svg) (81 место из 1236)
