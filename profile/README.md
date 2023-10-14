@@ -22,8 +22,6 @@
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Математик](https://raw.githubusercontent.com/chftm/brand/main/Badges/math.svg)
 
-[![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://geopro1966.online)
-
 ---
 
 ### [<img src="https://user-images.githubusercontent.com/83007290/225368617-7c56dd65-90f6-465e-94c4-891ccfc666ec.png" width=300px>](https://github.com/foxfil)
