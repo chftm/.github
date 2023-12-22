@@ -53,6 +53,12 @@
 
 ## События
 
+[<img src="https://dano.hse.ru/mirror/pubs/share/724064197" width=200px>](https://dano.hse.ru/)
+
+![УЧАСТНИКИ](https://raw.githubusercontent.com/chftm/brand/5f175a73b8138be374ca43350da0cefc8918a5be/Awards/icon_participant.svg) - Финалисты (39 место)
+
+---
+
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/263385497-93a091ce-8f1a-4557-bf9f-9c554508d13c.png" width=200px>](https://ya-doma.ru/drivehack-2023/)
 
 ![1_МЕСТО](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070137-d1c63377-e23d-483b-83d5-519182b11c9f.svg) - задача от Мосметро
