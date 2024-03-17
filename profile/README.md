@@ -55,7 +55,7 @@
 
 [<img src="https://github.com/chftm/.github/assets/83007290/a2b374e1-e5b5-4d9b-bd15-9837f50203de" width=200px>](https://dano.hse.ru/hackathon_nes_2024)
 
-![УЧАСТНИКИ](https://raw.githubusercontent.com/chftm/brand/5f175a73b8138be374ca43350da0cefc8918a5be/Awards/icon_participant.svg) - (5 место из 20)
+![УЧАСТНИКИ](https://raw.githubusercontent.com/chftm/brand/5f175a73b8138be374ca43350da0cefc8918a5be/Awards/icon_participant.svg) (5 место из 20)
 
 ---
 
