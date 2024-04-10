@@ -5,9 +5,9 @@
 ## Основные участники
 
 <h3><a href="https://github.com/flexagoon"><picture>
-  <source width=300px media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
-  <source width=300px media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/66178592/224479904-c41a3cba-46de-4c6c-979a-4c3687aa9161.png">
-  <img width=300px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/224479815-7c1d185d-fc7d-4e47-ae27-12a277c1234c.png">
+  <source width=300px media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
+  <source width=300px media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header-lightmode.png">
+  <img width=300px alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
 </picture></a></h3> 
 
 ![Тимлид](https://raw.githubusercontent.com/chftm/brand/main/Badges/teamlead.svg)
