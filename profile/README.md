@@ -53,6 +53,14 @@
 
 ## События
 
+[<img src="https://github.com/chftm/.github/assets/83007290/401135bc-9670-4579-ab5f-21d17284ce6a" width=200px>](https://ntcontest.ru/tracks/nto-school/proekt-novoy-bezopasnosti/informatsionnaya-bezopasnost/)
+
+![УЧАСТНИКИ](https://raw.githubusercontent.com/chftm/brand/5f175a73b8138be374ca43350da0cefc8918a5be/Awards/icon_participant.svg) (13 место из 33)
+
+[![КОД](https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/243070369-82031bc2-4b62-46f9-90b2-ec794c291f78.svg)](https://github.com/chftm/nto-cs-2024)
+
+---
+
 [<img src="https://github.com/chftm/.github/assets/83007290/a2b374e1-e5b5-4d9b-bd15-9837f50203de" width=200px>](https://dano.hse.ru/hackathon_nes_2024)
 
 ![УЧАСТНИКИ](https://raw.githubusercontent.com/chftm/brand/5f175a73b8138be374ca43350da0cefc8918a5be/Awards/icon_participant.svg) (5 место из 20)
