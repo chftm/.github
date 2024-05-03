@@ -53,7 +53,7 @@
 
 ## События
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/326237872-e011d946-c5a1-4901-a376-a0d60780381c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240428%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240428T072530Z&X-Amz-Expires=300&X-Amz-Signature=d8c7926162b3f79c591251c339c5c96954ffea9e78d034c5227bee1232030668&X-Amz-SignedHeaders=host&actor_id=83007290&key_id=0&repo_id=612088681" width=200px>](https://nuclearhack.mephi.ru/)
+[<img src="https://github.com/chftm/.github/assets/83007290/5a234dde-528e-4f67-9449-5e51c5dd8024" width=200px>](https://nuclearhack.mephi.ru/)
 
 ![УЧАСТНИКИ](https://raw.githubusercontent.com/chftm/brand/5f175a73b8138be374ca43350da0cefc8918a5be/Awards/icon_participant.svg) (4 место) - задача от Росатом
 
