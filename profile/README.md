@@ -17,7 +17,7 @@
 
 ---
 
-### [<img src="https://user-images.githubusercontent.com/66178592/225309144-5a69cb9e-a670-4d6d-8f40-7faeef8164de.png" width=300px>](https://github.com/ultrageopro1966)
+### [<img src="https://user-images.githubusercontent.com/66178592/225309144-5a69cb9e-a670-4d6d-8f40-7faeef8164de.png" width=300px>](https://github.com/ultrageopro)
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 ![Математик](https://raw.githubusercontent.com/chftm/brand/main/Badges/math.svg)
