@@ -34,7 +34,7 @@
 
 <h3><a href="https://github.com/pasha-matveev"><picture>
   <source width=300px media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/32371293-d690-469e-bc33-0b8b147ce83e">
-  <source width=300px media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1e131096-4159-4075-af4a-a2d160b7d8d2">
+  <source width=300px media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/30a6b82a-0e24-4dec-a14e-992684495d9e">
   <img width=300px alt="pasha_matveev" src="https://github.com/user-attachments/assets/32371293-d690-469e-bc33-0b8b147ce83e">
 </picture></a></h3> 
 
