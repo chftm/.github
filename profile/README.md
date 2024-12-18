@@ -33,9 +33,9 @@
 ---
 
 <h3><a href="https://github.com/pasha-matveev"><picture>
-  <source width=300px media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/66178592/225460790-dd331c77-4beb-438a-ac19-a66b73c9ee52.png">
-  <source width=300px media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/66178592/225460565-4352e8bb-a3d5-4bab-82b4-c1ef6509dd11.png">
-  <img width=300px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/225460790-dd331c77-4beb-438a-ac19-a66b73c9ee52.png">
+  <source width=300px media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/32371293-d690-469e-bc33-0b8b147ce83e">
+  <source width=300px media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1e131096-4159-4075-af4a-a2d160b7d8d2">
+  <img width=300px alt="pasha_matveev" src="https://github.com/user-attachments/assets/32371293-d690-469e-bc33-0b8b147ce83e">
 </picture></a></h3> 
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
