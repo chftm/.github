@@ -53,6 +53,12 @@
 
 ## События
 
+[<img src="https://github.com/user-attachments/assets/3d014e40-9fa1-416f-a18b-31b7fc9b06af" width=200px>](https://dano.hse.ru/)
+
+![УЧАСТНИКИ](https://raw.githubusercontent.com/chftm/brand/5f175a73b8138be374ca43350da0cefc8918a5be/Awards/icon_participant.svg) - Финалисты (21 место)
+
+---
+
 [<img src="https://github.com/chftm/.github/assets/83007290/5a234dde-528e-4f67-9449-5e51c5dd8024" width=200px>](https://nuclearhack.mephi.ru/)
 
 ![УЧАСТНИКИ](https://raw.githubusercontent.com/chftm/brand/5f175a73b8138be374ca43350da0cefc8918a5be/Awards/icon_participant.svg) (4 место) - задача от Росатом
