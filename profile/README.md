@@ -10,7 +10,6 @@
   <img width=300px alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/header.png">
 </picture></a></h3> 
 
-![Тимлид](https://raw.githubusercontent.com/chftm/brand/main/Badges/teamlead.svg)
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
 
 [![Сайт](https://raw.githubusercontent.com/chftm/brand/main/Badges/site.svg)](https://fxgn.dev)
@@ -49,6 +48,7 @@
   <img width=300px alt="flexagoon" src="https://user-images.githubusercontent.com/66178592/232559804-1f30f02b-8d77-4da8-8e3f-ffae36a67346.png">
 </picture></a></h3> 
 
+![Тимлид](https://raw.githubusercontent.com/chftm/brand/main/Badges/teamlead.svg)
 ![Дизайнер](https://raw.githubusercontent.com/chftm/brand/main/Badges/designer.svg)
 
 ## События
