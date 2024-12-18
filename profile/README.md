@@ -32,9 +32,9 @@
 ---
 
 <h3><a href="https://github.com/pasha-matveev"><picture>
-  <source width=300px media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/32371293-d690-469e-bc33-0b8b147ce83e">
-  <source width=300px media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/30a6b82a-0e24-4dec-a14e-992684495d9e">
-  <img width=300px alt="pasha_matveev" src="https://github.com/user-attachments/assets/32371293-d690-469e-bc33-0b8b147ce83e">
+  <source width=300px media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0816ea72-c776-4cd3-b8c0-6447ef9045a0">
+  <source width=300px media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/817348cc-3b92-44f8-b43f-6cec2ff17fa0">
+  <img width=300px alt="pasha_matveev" src="https://github.com/user-attachments/assets/0816ea72-c776-4cd3-b8c0-6447ef9045a0">
 </picture></a></h3> 
 
 ![Программист](https://raw.githubusercontent.com/chftm/brand/main/Badges/programmer.svg)
